@@ -1,0 +1,16 @@
+show
+move 1673
+turnright 1673
+move 1673
+turnright 1673
+move 1673
+move 1555
+move 1555
+move 1673
+turnleft 1673
+turnleft 1673
+turnleft 1673
+move 1673
+travelled
+within 100
+show
